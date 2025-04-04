@@ -1,0 +1,23 @@
+ARCHIVOS DE AUDIO PARA MEDITACIÓN
+
+IMPORTANTE: Actualmente los archivos de audio son placeholders y necesitan ser reemplazados
+con archivos reales de meditación.
+
+Puedes encontrar archivos de meditación con licencia adecuada en los siguientes sitios:
+
+1. Freesound.org - Audios con licencias Creative Commons
+2. Pixabay - Tiene música de meditación libre de derechos
+3. Bensound - Algunos audios gratuitos para uso con atribución
+4. Epidemic Sound - Servicio de suscripción con alta calidad de audio
+
+Asegúrate de que los archivos de audio tengan formato MP3 y nombralos según la convención establecida:
+
+- calm_meditation.mp3
+- focus_meditation.mp3
+- sleep_meditation.mp3
+- energy_meditation.mp3
+- stress_reduction.mp3
+- morning_meditation.mp3
+- evening_meditation.mp3
+
+Los archivos deben ser colocados en esta carpeta (assets/audio/) para que la aplicación pueda encontrarlos. 
