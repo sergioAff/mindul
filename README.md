@@ -1,7 +1,5 @@
 # Mindful Moments
 
-![Mindful Moments](https://via.placeholder.com/800x400?text=Mindful+Moments+App)
-
 Una aplicación de meditación diseñada para ayudarte a encontrar paz y equilibrio mental a través de sesiones guiadas de meditación y mindfulness.
 
 ## ✨ Características
