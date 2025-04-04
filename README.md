@@ -12,14 +12,6 @@ Una aplicación de meditación diseñada para ayudarte a encontrar paz y equilib
 - **Interfaz intuitiva** - Diseño limpio y minimalista para una experiencia sin distracciones
 - **Multiplataforma** - Disponible para iOS, Android y macOS
 
-## 📱 Capturas de pantalla
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://via.placeholder.com/250x500?text=Pantalla+Principal" width="30%" alt="Pantalla Principal">
-    <img src="https://via.placeholder.com/250x500?text=Selección+de+Meditación" width="30%" alt="Selección de Meditación">
-    <img src="https://via.placeholder.com/250x500?text=Sesión+de+Meditación" width="30%" alt="Sesión de Meditación">
-</div>
-
 ## 🛠️ Tecnologías
 
 - **[Flutter](https://flutter.dev/)** - Framework UI multiplataforma
